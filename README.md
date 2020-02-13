@@ -1,3 +1,3 @@
 # ErrorReactJS
 
-les erroeurs rencontrées dans l'apprentissage de react
+les erreurs rencontrées dans l'apprentissage de react
